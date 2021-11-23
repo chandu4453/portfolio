@@ -1,0 +1,245 @@
+.main{
+    background-color: black;
+    user-select: none;
+}
+
+#about{
+    width: 60%;
+}
+.into-text{
+    color: #3ccf91;
+    margin-left: 50px;
+   
+}
+
+.intro{
+    color: white;
+    font-size: 70px;
+    font-family: 'Fruktur', cursive;
+font-family: 'Open Sans', sans-serif;
+margin-left: 50px;
+
+}
+
+.about-me{
+    color: white;
+    margin-left: 50px;
+    font-size: 35px;
+}
+
+.brief
+{
+    color: gray;
+    font-size: 25px;
+}
+
+.developer-img{
+    position: relative;
+    width: 60%;
+    height: 350px;
+    top: -170px;
+    left: 950px;
+    
+}
+
+.more{
+    color: gray;
+    position: relative;
+    top: -350px;
+    left: 50px;
+    font-size: 20px;
+}
+
+.btn{
+
+    position: relative;
+    width: 80px;
+    height: 50px;
+}
+.btn:hover{
+    background-color:lightblue;
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+.buttons{
+    position: relative;
+    top: -335px;
+    left: 50px;
+   
+}
+
+.btn{
+    margin-right: 10px;
+}
+
+.nav-item,nav-link{
+    color: white;
+}
+
+.in-details{
+    color: white;
+}
+
+.a{
+    color: white;
+    text-decoration: none;
+}
+
+.a:hover{
+    color: white;
+}
+
+.in-details{
+    font-family: 'Cookie', cursive;
+    font-family: 'Fruktur', cursive;
+}
+
+.mypara{
+    color: gray;
+    font-weight: 300px;
+    user-select:none;
+}
+
+#details{
+    position: relative;
+    top: -250px;
+    left: 50px;
+}
+.fa-github{
+   size: 7x; 
+  
+}
+.btn-icons{
+    width: 130px;
+}
+.mypara{
+    width: 55%;
+}
+.brief1{
+    color: aqua;
+}
+
+.my-img{
+    width: 320px;
+    height: 320px;
+    position: relative;
+    left: 1000px;
+    top: -190px;
+    border-radius: 100%;
+}
+
+.education{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card{
+    background-color: black;
+}
+.ed-img
+{
+    margin-top: 20px;
+}
+.nara{
+    width: 350px;
+    height: 150px;
+}
+.educations{
+    position: relative;
+    top: -350px;
+}
+
+.card-title,.card-text
+{
+    color: white;
+}
+.proj-h1
+{   margin-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+#projects{
+    position: relative;
+    top: -200px;
+}
+.skill{
+    color: white;
+    text-align: center;
+
+}
+.spinner-grow{
+    width: 5px;
+    height: 50px;
+}
+.c-lang{
+    color: white;
+}
+
+.skill{
+    margin-bottom: 25px;
+}
+
+.sk-img
+{
+    margin: 20px 20px;
+}
+.sk-p
+{
+    text-align: center;
+    color: tomato;
+}
+
+.skills{
+    position: relative;
+    top: -100px;
+}
+
+#contact{
+    background-color: white;
+}
+.contact{
+    text-align: center;
+}
+
+.fab :hover{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-primary{
+    color: black;
+}
+.btn-primary:hover{
+    background-color: aqua;
+
+}
+.fab{
+    margin-right: 5px;
+    
+}
+
+#contact{
+    padding-top: 50px;
+}
+
+.fab1{
+    margin-right: 25px;
+}
+.contact-icons{
+    margin-top: 30px;
+    margin-left: 630px;
+}
+
+.pfooter{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.undraw{
+    width: 450px;
+    height: 450px;
+}
